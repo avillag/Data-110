@@ -44,7 +44,7 @@ I enjoy reading, but I haven't read anything in a while :( Below is a list of so
 
 
 ### Coding 
-I have never coded, so my classes this semester are entirely new! If anyone has any recommended reading material or resources for a newbie in tech, I'd appreciate it! Right now, I mostly solve problems by watching YouTube videos. The first code I tried was in C ++ (P.S. Downloading Visual Studio and Clang on Mac was a nightmare; it took me two days, and I'm not sure it's installed correctly. Here is my first code in VS: 
+I have never coded, so my classes this semester are entirely new! If anyone has any recommended reading material or resources for a newbie in tech, I'd appreciate it! Right now, I am mostly watching YouTube videos to try to problem solve. The first code I tried was in C ++ (P.S. Downloading Visual Studio and Clang on Mac was a nightmare; it took me two days, and I'm not sure it's installed correctly. Here is my first code in VS: 
 ```C++
 #include <iostream>
 int main() {
