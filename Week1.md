@@ -33,8 +33,10 @@ Below are some foods I want to try in the area.
 >
 >  "The Work Is Mysterious And Important." [^1]
 > [^1]:Santi, B. (2025, January 31). 10 best quotes in Severance, ranked. Game Rant. https://gamerant.com/best-quotes-severance-ranked/ 
->
+> 
 >  *Mark* referencing his work at Lumon.
+
+![Mark](Images/severance-numbers-file.gif) 
 
 #### Books I like
 I enjoy reading, but I haven't read anything in a while :( Below is a list of some of the books I enjoyed last year. If anyone has any good book recommendations, please share! 
