@@ -17,6 +17,13 @@ This semester, I am taking two classes.
 
 This is the *[Emoji Guide in Markdown](https://gist.github.com/rxaviers/7360908)*.
 
+### Restaurants/Cafes I want to try in the DMV 
+Below are some foods I want to try in the area. 
+- [ ] Gute Leute Cafe
+- [ ] Rice Culture
+- [X] Gardenia's Cafe
+
+
 ### TV Shows I like 
 - Severance
 - American Horror Story
