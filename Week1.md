@@ -19,9 +19,9 @@ This is the *[Emoji Guide in Markdown](https://gist.github.com/rxaviers/7360908)
 
 ### Restaurants/Cafes I want to try in the DMV 
 Below are some foods I want to try in the area. 
-- [ ] Gute Leute Cafe ![Click the link](Images/IMG_3391.jpg)
-- [ ] Rice Culture
-- [X] Gardenia's Cafe
+- [ ] Gute Leute Cafe <img src="Images/IMG_3391.jpg" alt="placeholder" width="80" height="80">
+- [ ] Rice Culture <img src="Images/Icecream.jpg" width="80" height="80">
+- [X] Gardenia's Cafe 
 
 
 ### TV Shows I like 
