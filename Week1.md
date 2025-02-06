@@ -10,10 +10,12 @@ Hi! This is my first time on GitHub, and I am trying to figure this out!
 
 ### Schedule
 This semester, I am taking two classes.
-|Classes|Dates|
-| ----------- | ----------- |
-|Data 110|Wednesday|
-|CMSC 140|Tuesday|
+|Classes :pencil2:|Dates :calendar:|Times 🕥|
+| ----------- | ----------- | ----------- |
+|Data 110|Wednesday|6 - 8:40 PM|
+|CMSC 140|Tuesday| 6 - 8:00 PM|
+
+This is the *[Emoji Guide in Markdown](https://gist.github.com/rxaviers/7360908)*.
 
 ### TV Shows I like 
 - Severance
