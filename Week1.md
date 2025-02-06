@@ -39,7 +39,7 @@ Below are some foods I want to try in the area.
 ![Mark](Images/severance-numbers-file.gif) 
 
 #### Books I like
-I enjoy reading, but I haven't read anything in a while :( Below is a list of some of the books I enjoyed last year. If anyone has any good book recommendations, please share! 
+I enjoy reading, but I haven't read anything in a while :pensive: Below is a list of some of the books I enjoyed last year. If anyone has any good book recommendations, please share! 
 >1. *Oryx and Crake* Trilogy by Margaret Atwood 
 >2. *All the Light We Cannot See* by Anthony Doerr
 >3. *Cloud Cuckoo Land* by Anthony Doerr
