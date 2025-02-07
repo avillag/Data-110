@@ -1,5 +1,6 @@
 # Week 1 Assignment 
 ###### By Alejandra Villagran
+###### February 6th 2025 
 --- 
 ### Introduction 
 Hi! This is my first time on GitHub, and I am trying to figure this out!
